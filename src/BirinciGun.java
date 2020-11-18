@@ -9,6 +9,6 @@ public class BirinciGun {
                         System.out.println("10:35 -ikinci gun"); 
                         System.out.println("11:05 -local");
                         System.out.println("11:23 -github.com");
-                     
+                        System.out.println("11:28 -bakalim conflict olacak mi");
             }        
             }                        
